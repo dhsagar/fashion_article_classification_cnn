@@ -8,7 +8,7 @@ Fashion MNIST Dataset
 <br>Dataset contains fashion aticle images of 10 different classes
 Class Names : "T-shirt/top", "Trouser", "Pullover",	"Dress", "Coat", 	"Sandal",	"Shirt",	"Sneaker", "Bag", "Ankle boot"
 ### Used Tools & Technology
-Used tools and technoly: TensorFlow, Keras, Numpy, matplotlib, CNN
+TensorFlow, Keras, Numpy, matplotlib, CNN
 #### A CNN model is trained with Fashion MNIST Dataset to predict the fashion article 
 Trained CNN model can successfully predict the image class of the fashion article from test data
 ### Evaluation of the model
